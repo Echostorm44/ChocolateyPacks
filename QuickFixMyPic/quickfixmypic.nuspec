@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>    
+    <id>quickfixmypic</id>
+    <version>1.0.0</version>
+    <owners>Adam Marciniec</owners>
+    <title>QuickFixMyPic</title>
+    <authors>Adam Marciniec</authors>
+    <projectUrl>https://github.com/Echostorm44/QuickFixMyPic/</projectUrl>
+    <iconUrl>https://rawcdn.githack.com/Echostorm44/QuickFixMyPic/6fb617d035e3e854344c880020f022c061dd2149/appIcon.png</iconUrl>
+    <copyright>2022</copyright>
+    <licenseUrl>https://github.com/Echostorm44/QuickFixMyPic/blob/main/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <projectSourceUrl>https://github.com/Echostorm44/QuickFixMyPic/</projectSourceUrl>
+    <docsUrl>https://github.com/Echostorm44/QuickFixMyPic/wiki</docsUrl>
+    <bugTrackerUrl>https://github.com/Echostorm44/QuickFixMyPic/issues</bugTrackerUrl>
+    <tags>quickfixmypic image converter convert resize resizer pic pix png jpg gif heic webp ico icon</tags>
+    <summary>A simple batch image converter and resizer</summary>
+    <description>A simple and intuitive batch image converter and resizer, supporting most popular image types including; JPG, PNG, GIF, WEBP, HEIC, BMP, TIFF, ICO</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
