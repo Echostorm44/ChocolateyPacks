@@ -6,9 +6,10 @@
     <owners>Adam Marciniec</owners>
     <title>QuickFixMyPic</title>
     <authors>Adam Marciniec</authors>
+	<packageSourceUrl>https://github.com/Echostorm44/ChocolateyPacks/tree/main/QuickFixMyPic</packageSourceUrl>	
     <projectUrl>https://github.com/Echostorm44/QuickFixMyPic/</projectUrl>
     <iconUrl>https://rawcdn.githack.com/Echostorm44/QuickFixMyPic/6fb617d035e3e854344c880020f022c061dd2149/appIcon.png</iconUrl>
-    <copyright>2022</copyright>
+    <copyright>2022 Adam Marciniec</copyright>
     <licenseUrl>https://github.com/Echostorm44/QuickFixMyPic/blob/main/LICENSE</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/Echostorm44/QuickFixMyPic/</projectSourceUrl>
